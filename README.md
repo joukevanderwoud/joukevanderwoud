@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello world!
+Im a student at UU
+
+
+
 
 <!--
 **joukevanderwoud/joukevanderwoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
